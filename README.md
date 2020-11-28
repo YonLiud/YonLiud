@@ -24,8 +24,7 @@ I speak:<br>
 
 <div align="center">
 
-[![Yon's github stats](https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true&theme=merko)
-<br>
+[![Yon's github stats](https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonLiud)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
@@ -42,12 +41,12 @@ I speak:<br>
 <a href="https://reactjs.org/"><img src="https://unpkg.com/simple-icons@3.13.0/icons/react.svg" alt="react" width="40" height="40"/></a>
 <a href="https://www.electronjs.org/"><img src="https://unpkg.com/simple-icons@3.13.0/icons/electron.svg" alt="electron" width="40" height /></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://unpkg.com/simple-icons@3.13.0/icons/gnubash.svg" alt="gnubash" width="40" height="40"/></a>
-</p>
 <a href="https://ubuntu.com/"><img src="https://unpkg.com/simple-icons@3.13.0/icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://unpkg.com/simple-icons@3.13.0/icons/microsoft.svg" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://unpkg.com/simple-icons@3.13.0/icons/sqlite.svg" alt="sqlite" width="40" height="40"/></a>
 <a href="https://www.mysql.com/"><img src="https://unpkg.com/simple-icons@3.13.0/icons/mysql.svg" alt"mysql"width="40" height="40"/></a>
 <a href="https://git-scm.com/"><img src="https://unpkg.com/simple-icons@3.13.0/icons/git.svg" alt"mysql"width="40" height="40"/></a>
+</p>
 
 <hr>
 
