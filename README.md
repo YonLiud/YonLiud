@@ -12,11 +12,11 @@ I live in Israel 🇮🇱<br />
 I develop since I am 9 years old and <a href="#skills">my skills are here</a><br>
 I speak:<br>
 
-* English <img src="./united-states-of-america.png" width="25px"/> intermediate
+* <img src="./united-states-of-america.png" width="25px"/> English Intermediate
 
-* Hebrew <img src="./israel.png" width="25px"/> Native language
+* <img src="./israel.png" width="25px"/> Hebrew Native language
 
-* Russian <img src="./russia.png" width="25px"/> native language
+* <img src="./russia.png" width="25px"/> Russian  Native language
 
 <hr>
 
