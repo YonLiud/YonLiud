@@ -1,7 +1,7 @@
 ### Hello World! <img src="wave.gif" width="25px"/>
 
 
-<img align="right" src="5KgEoYL.gif" width="350px"/>
+<img align="right" src="5KgEoYL.gif" width="350px" />
 
 My name is Yonatan! but you can call me simply Yon!
 I'm 17 Year's old
