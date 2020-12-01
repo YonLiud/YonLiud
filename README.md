@@ -1,12 +1,13 @@
 ### Hello World! <img src="wave.gif" width="25px"/>
 
 
-<img align="right" src="5KgEoYL.gif" width="250px" />
+<img align="right" src="5KgEoYL.gif" width="350px" />
 
-My name is Yonatan! but you can call me simply Yon!
-I'm 17 Year's old
-I live in Israel 🇮🇱
-I develop since I am 9 years old and <a href="#skills">my skills are here</a>
+My name is Yonatan! but you can call me simply Yon!<br>
+I'm 17 Year's old<br>
+I live in Israel 🇮🇱<br>
+I am currently working on: <a href="https://github.com/YonLiud/CU">CU</a><br>
+I develop since I am 9 years old and <a href="#skills">my skills are here</a><br>
 I speak:
 
 * <img src="./united-states-of-america.png" width="25px"/> English Intermediate
