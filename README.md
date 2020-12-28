@@ -1,8 +1,52 @@
-### Hello World! <img src="wave.gif" width="25px"/>
+<!-- ### Hello World! <img src="wave.gif" width="25px"/> -->
 
 <p align="left">
 
-```python
+# Hi, I'm Yon! <img src="wave.gif" width="50px"/>
+
+
+
+
+</p>
+<img align="right" width="200" height="200" src="comp.gif">
+
+## My Tech Skills:
+
+### Programming Languages
+
+<img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/vagrant-original.svg?size=128&color=currentColor" />&nbsp;
+### Database Systems
+
+<img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />&nbsp;
+
+### Tools and Frameworks
+
+<img height="32" width="32" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/electron-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" />&nbsp;
+
+
+### Operating Systems
+
+<img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;    
+
+<hr>
+
+## <img src="mario.gif" width="50px"/> A little more about me...
+
+```py
 class YonLiud:
     def __init__(self):
         self.username = 'YonLiud'
@@ -26,47 +70,8 @@ class YonLiud:
         return self.name
 if __name__ == '__main__':
     me = YonLiud()
-
 ```
 
-</p>
-<div align="center">
-<details>
-<summary>My Tech Skills</summary>
-
-### Programming Languages
-
-<img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />&nbsp;
-
-### Database Systems
-
-<img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" />&nbsp;
-
-### Tools and Frameworks
-
-<img height="32" width="32" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/electron-original.svg?size=128&color=currentColor" />&nbsp;
-
-
-### Operating Systems
-
-<img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;    
-
-</div>
-
-</details>
 
 <hr>
 
