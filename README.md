@@ -19,7 +19,6 @@
 <img height="32" width="32" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/vagrant-original.svg?size=128&color=currentColor" />&nbsp;
 ### Database Systems
 
 <img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
@@ -33,7 +32,6 @@
 <img height="32" width="32" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/electron-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" />&nbsp;
 
 
 ### Operating Systems
