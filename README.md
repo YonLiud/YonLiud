@@ -40,7 +40,7 @@
 
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;    
+<img height="32" width="32" src="https://icongr.am/simple/archlinux.svg?size=128&color=currentColor" />&nbsp; 
 
 <hr>
 
