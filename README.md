@@ -76,6 +76,9 @@ if __name__ == '__main__':
 <hr>
 
 <p align="center">
+    
+[![DOD Badge](https://img.shields.io/badge/TEAM-ALTAB%20DEVELOPMENTS-fff200?style=for-the-badge)](https://github.com/nat2k15)
+    
   <a href="https://github.com/YonLiud">
     <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&hide_border=true&show_icons=true" alt="YonLiud's GitHub stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonLiud&hide_border=true&layout=compact" alt="YonLiud's GitHub languages">
