@@ -7,6 +7,7 @@
 
 
 
+
 </p>
 <img align="right" width="200" height="200" src="comp.gif">
 
@@ -77,7 +78,7 @@ if __name__ == '__main__':
 
 <p align="center">
     
-[![DOD Badge](https://img.shields.io/badge/TEAM-ALTAB%20DEVELOPMENTS-fff200?style=for-the-badge)](https://github.com/alTab-Developments)
+<!-- [![DOD Badge](https://img.shields.io/badge/TEAM-ALTAB%20DEVELOPMENTS-fff200?style=for-the-badge)](https://github.com/alTab-Developments) -->
     
   <a href="https://github.com/YonLiud">
     <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&hide_border=true&show_icons=true" alt="YonLiud's GitHub stats">
