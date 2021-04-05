@@ -4,7 +4,7 @@
 
 # Hi, I'm Yon! <img src="wave.gif" width="50px"/>
 
-
+### ⚙️ Current Big Project: [Auto Crypto Trader](https://github.com/YonLiud/Auto-Crypto-Trader)
 
 
 
@@ -13,7 +13,7 @@
 
 ## My Tech Skills:
 
-### Programming / Markdown. Languages
+### Programming / Markdown Languages
 
 <img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
