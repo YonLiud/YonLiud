@@ -4,7 +4,7 @@
 
 # Hi, I'm Yon! <img src="wave.gif" width="50px"/>
 
-### ⚙️ Current Big Project: [Auto Crypto Trader](https://github.com/YonLiud/Auto-Crypto-Trader)
+<!--### ⚙️ Current Big Project: [Auto Crypto Trader](https://github.com/YonLiud/Auto-Crypto-Trader) -->
 
 
 
