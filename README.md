@@ -9,7 +9,7 @@
 
 
 </p>
-<img align="right" width="200" height="200" src="comp.gif">
+<img align="right" width="200" height="200" src="820347329886289950.gif">
 
 ## My Tech Skills:
 
