@@ -13,7 +13,7 @@
 
 ## My Tech Skills:
 
-### Programming / Markdown Languages
+### Programming
 
 <img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
