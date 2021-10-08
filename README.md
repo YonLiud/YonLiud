@@ -84,3 +84,5 @@ if __name__ == '__main__':
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonliud&" alt="YonLiud's streak" />
   </a>
 </p>
+
+<sub><sup>Rest In Peace, Father - Ilia Liudmirsky</sup></sub>
