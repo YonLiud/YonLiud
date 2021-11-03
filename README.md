@@ -14,36 +14,49 @@
 ## My Tech Skills:
 
 ### Programming
-
-<img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />&nbsp;
+<a href="https://www.python.org/">
+<img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScripthttps://www.java.com/">
+<img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+<img height="32" width="32" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://www.cplusplus.com/">
+<img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" /></a>&nbsp;
 
 ### Database Systems
-
-<img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />&nbsp;
+<a href="https://www.mysql.com/">
+<img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://www.postgresql.org/">
+<img height="32" width="32" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" /></a>&nbsp;
 
 ### Tools and Frameworks
 
-<img height="32" width="32" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/electron-original.svg?size=128&color=currentColor" />&nbsp;
-<a href=""><img height="32" width="32" src="https://img.icons8.com/color/452/fivem.png" />&nbsp;
+<a href="https://www.docker.com/">
+<img height="32" width="32" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://www.nginx.com/">
+<img height="32" width="32" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://nodejs.org/en/">
+<img height="32" width="32" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://www.microsoft.com/net/core">
+<img height="32" width="32" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://reactjs.org/">
+<img height="32" width="32" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://electronjs.org/">
+<img height="32" width="32" src="https://icongr.am/devicon/electron-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://fivem.net/">
+<img height="32" width="32" src="https://img.icons8.com/color/452/fivem.png" /></a>&nbsp;
 
-### Operating Systems
+### Professional Operating Systems
+<a href="https://www.archlinux.com/">
+<img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://www.microsoft.com/windows/">
+<img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" /></a>&nbsp;
 
-<img height="32" width="32" src="https://icongr.am/material/ubuntu.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/simple/archlinux.svg?size=128&color=currentColor" />&nbsp; 
+
 
 <hr>
 
-## <img src="mario.gif" width="50px"/> A little more about me...
+## <a href="https://mario.nintendo.com/"><img src="mario.gif" width="50px"/></a> A little more about me...
 
 ```py
 class YonLiud:
@@ -66,9 +79,10 @@ class YonLiud:
             "Physics": "Weizmann Institute of Science",
         }
     def __str__(self):
-        return self.name
+        return "Hello World!"
 if __name__ == '__main__':
     me = YonLiud()
+    print(me)
 ```
 
 
@@ -84,5 +98,15 @@ if __name__ == '__main__':
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonliud&" alt="YonLiud's streak" />
   </a>
 </p>
+
+
+<hr>
+
+## Contact
+* I'm on discord as: <a href="https://discordapp.com/users/477870815581569034/">y0nliud#1545</a>
+* Email me at: <a href="mailto:ejliud@gmail.com">ejliud@gmail.com</a>
+* My Instagram is: <a href="https://www.instagram.com/y0nliud/">y0nliud</a>
+* Telegram: <a href="https://t.me/YonLiud">YonLiud</a>
+
 
 <sub><sup>Rest In Peace, Father - Ilia Liudmirsky</sup></sub>
