@@ -22,6 +22,9 @@
 <img height="32" width="32" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" /></a>&nbsp;
 <a href="https://www.cplusplus.com/">
 <img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" /></a>&nbsp;
+<a href="https://www.lua.org/">
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"/></a>
+
 
 ### Database Systems
 <a href="https://www.mysql.com/">
