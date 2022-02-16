@@ -65,7 +65,7 @@
 class YonLiud:
     def __init__(self):
         self.username = 'YonLiud'
-        self.age = 17
+        self.age = 18
         self.name = 'Yonatan Mark Liudmirsky'
         self.languages = {
             "English":  "Intermediate",
@@ -75,7 +75,7 @@ class YonLiud:
         self.education = {
             "Programming": (
                 ["IT and Data Security", "Microsoft's Sans Park"]
-                ["Python & Javascript", "Self Education"],
+                ["Python && Javascript && Lua", "Self Education"],
                 ["Linux Usage", "Self Education"],
                 ["Pentesting", "Hack The Box"]
             ),
