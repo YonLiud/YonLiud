@@ -79,7 +79,7 @@ class YonLiud:
                 ["Linux Usage", "Self Education"],
                 ["Pentesting", "Hack The Box"]
             ),
-            "Physics": "Weizmann Institute of Science",
+            "Physics": ([ "Weizmann Institute of Science" ],),
         }
     def __str__(self):
         return "Hello World!"
