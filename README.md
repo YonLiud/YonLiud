@@ -72,7 +72,7 @@ type Person struct {
 func main() {
 	p := Person{
 		Name:       "Yon Liud",
-		Age:        25,
+		Age:        18,
 		Knowledges: []string{"Go", "Python", "JavaScript", "C++", "Lua"},
 		Studies: map[string]string{
 			"Physics":          "Weizmann Institute of Science",
