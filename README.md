@@ -61,31 +61,31 @@
 
 ## <a href="https://mario.nintendo.com/"><img src="mario.gif" width="50px"/></a> A little more about me...
 
-```py
-class YonLiud:
-    def __init__(self):
-        self.username = 'YonLiud'
-        self.age = 18
-        self.name = 'Yonatan Mark Liudmirsky'
-        self.languages = {
-            "English":  "Intermediate",
-            "Hebrew":   "Native language",
-            "Russian":  "Native language"
-        }
-        self.education = {
-            "Programming": (
-                ["IT and Data Security", "Microsoft's Sans Park"]
-                ["Python && Javascript && Lua", "Self Education"],
-                ["Linux Usage", "Self Education"],
-                ["Pentesting", "Hack The Box"]
-            ),
-            "Physics": "Weizmann Institute of Science",
-        }
-    def __str__(self):
-        return "Hello World!"
-if __name__ == '__main__':
-    me = YonLiud()
-    print(me)
+```go
+type Person struct {
+	Name       string
+	Age        int
+	Knowledges []string
+	Studies    map[string]string
+}
+
+func main() {
+	p := Person{
+		Name:       "Yon Liud",
+		Age:        25,
+		Knowledges: []string{"Go", "Python", "JavaScript", "C++"},
+		Studies: map[string]string{
+			"Physics":          "Weizmann Institute of Science",
+			"Computer Science": "Self-taught",
+			"IT":               "Microsoft's Institute Sans Park",
+			"CyberSecurity":    "Self-taught",
+		},
+	}
+	fmt.Println(p)
+}
+
+// Output: {Yon 25 [Go Python JavaScript C++] map[Computer Science:Self-taught CyberSecurity:Self-taught IT:Microsoft's Institute Sans Park Physics:Weizmann Institute of Science]}
+
 ```
 
 
