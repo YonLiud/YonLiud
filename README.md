@@ -73,7 +73,7 @@ func main() {
 	p := Person{
 		Name:       "Yon Liud",
 		Age:        25,
-		Knowledges: []string{"Go", "Python", "JavaScript", "C++"},
+		Knowledges: []string{"Go", "Python", "JavaScript", "C++", "Lua"},
 		Studies: map[string]string{
 			"Physics":          "Weizmann Institute of Science",
 			"Computer Science": "Self-taught",
@@ -84,7 +84,7 @@ func main() {
 	fmt.Println(p)
 }
 
-// Output: {Yon 25 [Go Python JavaScript C++] map[Computer Science:Self-taught CyberSecurity:Self-taught IT:Microsoft's Institute Sans Park Physics:Weizmann Institute of Science]}
+// Output: {Yon 25 [Go Python JavaScript C++ Lua] map[Computer Science:Self-taught CyberSecurity:Self-taught IT:Microsoft's Institute Sans Park Physics:Weizmann Institute of Science]}
 
 ```
 
