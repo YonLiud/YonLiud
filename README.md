@@ -7,5 +7,7 @@
 <hr	>
 
 <img src="https://gcdnb.pbrd.co/images/Wp3WZ7S5ag7M.png?o=1">
-
-![](https://github-readme-stats.vercel.app/api?username=YonLiud)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YonLiud&show_icons=true&locale=en&layout=compact" alt="yonliud" />
+<img src="https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true" alt="yonliud") />
+</p>
