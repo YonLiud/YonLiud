@@ -1,12 +1,14 @@
 <h2><img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="50"> Heya! Name's Yon</h2>
 
-<img align='right' src="https://media.giphy.com/media/3oGRFkmoqoui9nzL2g/giphy.gif" width="230">
-<p><em>Physics Enginnering Student at <a href="https://www.weizmann.ac.il/">Weizmann Institute Of Science</a></br>Node Runner & Service Host for The <a href="https://www.torproject.org/">Tor Project</a>  <img src="https://media.giphy.com/media/BK1EfIsdkKZMY/giphy.gif" height="20"> 
-</em></p>
 
-<hr	>
+<a href="https://discord.com/users/477870815581569034"><img align="left" src="https://lanyard.cnrad.dev/api/477870815581569034?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
 
-<img src="https://gcdnb.pbrd.co/images/Wp3WZ7S5ag7M.png?o=1">
+<a href="http://yonchukku.dev/">THE FUTURE IS CLOSER THAN YOU THINK</a>
+
+## 📋 About
+
+Physics Enginnering Student at <a href="https://www.weizmann.ac.il/">Weizmann Institute Of Science</a></br>Node Runner & Service Host for The <a href="https://www.torproject.org/">Tor Project</a>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YonLiud&show_icons=true&locale=en&layout=compact" alt="yonliud" />
 <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true" alt="yonliud") />
