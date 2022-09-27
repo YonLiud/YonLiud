@@ -13,6 +13,8 @@ Physics Enginnering Student at <a href="https://www.weizmann.ac.il/">Weizmann In
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true" alt="yonliud") />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YonLiud&show_icons=true&locale=en&layout=compact" alt="yonliud" />
+
+[![@yonliud's Holopin board](https://holopin.io/api/user/board?user=yonliud)](https://holopin.io/@yonliud)
+
 
 </p>
