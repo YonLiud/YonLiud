@@ -11,10 +11,10 @@ Physics Enginnering Student at <a href="https://www.weizmann.ac.il/">Weizmann In
 
 <br />
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true" alt="yonliud") />
 
 [![@yonliud's Holopin board](https://holopin.io/api/user/board?user=yonliud)](https://holopin.io/@yonliud)
 
-
-</p>
+<a href="https://api.badgr.io/public/assertions/H1seZMvGRnOGQtHI8fOa0Q?identity__email=ejliud%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/H1seZMvGRnOGQtHI8fOa0Q/image"></a>
+<a href="https://api.badgr.io/public/assertions/9H07qeHESQulWOdT_7F_lQ?identity__email=ejliud%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/9H07qeHESQulWOdT_7F_lQ/image"></a>
+  
