@@ -11,15 +11,19 @@ Physics Enginnering Student at <a href="https://www.weizmann.ac.il/">Weizmann In
 
 <br />
 
-<p align="center">
-
-[![@yonliud's Stats](https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true)](https://yonchukku.dev)
-
-
-[![@yonliud's Holopin board](https://holopin.io/api/user/board?user=yonliud)](https://holopin.io/@yonliud)
+<table align="center">
+  <tr>
+    <td colspan="2" align="center"><img src="https://activity-graph.herokuapp.com/graph?username=YonLiud&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true&theme=dark&locale=en"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YonLiud&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://holopin.io/api/user/board?user=yonliud"/></td>
+  </tr>
+</table>
 
 
 <a href="https://api.badgr.io/public/assertions/H1seZMvGRnOGQtHI8fOa0Q?identity__email=ejliud%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/H1seZMvGRnOGQtHI8fOa0Q/image"></a>
 <a href="https://api.badgr.io/public/assertions/9H07qeHESQulWOdT_7F_lQ?identity__email=ejliud%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/9H07qeHESQulWOdT_7F_lQ/image"></a>
- 
-</p>
