@@ -13,9 +13,6 @@ Physics Enginnering Student at <a href="https://www.weizmann.ac.il/">Weizmann In
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://activity-graph.herokuapp.com/graph?username=YonLiud&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true&theme=dark&locale=en"/></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YonLiud&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
   </tr>
