@@ -1,26 +1,12 @@
-<h2><img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="50"> Heya! Name's Yon</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Hello&#x2c;%20World-000000?style=for-the-badge&logoColor=white" style="height: 40px" />
 
+  <!--
+  <a href="https://discordapp.com/users/477870815581569034/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yonliud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://discord.com/users/477870815581569034"><img align="left" src="https://lanyard.cnrad.dev/api/477870815581569034?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
+  <hr>
 
-<a href="http://yonchukku.dev/">THE FUTURE IS CLOSER THAN YOU THINK</a>
-
-## 📋 About
-
-Physics Enginnering Student at <a href="https://www.weizmann.ac.il/">Weizmann Institute Of Science</a></br>Node Runner & Service Host for The <a href="https://www.torproject.org/">Tor Project</a>
-
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=YonLiud&show_icons=true&theme=dark&locale=en"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YonLiud&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://holopin.io/api/user/board?user=yonliud"/></td>
-  </tr>
-</table>
-
-
-<a href="https://api.badgr.io/public/assertions/H1seZMvGRnOGQtHI8fOa0Q?identity__email=ejliud%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/H1seZMvGRnOGQtHI8fOa0Q/image"></a>
-<a href="https://api.badgr.io/public/assertions/9H07qeHESQulWOdT_7F_lQ?identity__email=ejliud%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/9H07qeHESQulWOdT_7F_lQ/image"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonliud&layout=compact&langs_count=4" alt="langs-donut" style="display: inline-block; margin-right: 10px;"/>
+    -->
+</div>
